@@ -5,8 +5,8 @@ you're looking to build a dynamic web application, enhance your online presence,
 business operations, I'm here to help.
 
 ## Skills and Experience
-* ⚛ React
+*  React
 *  Redux, Valtio, React Query
 *  Node.js, Express.js, Nest.js
 *  Mongo, Postgres, Microservices, NX, Meilisearch
-* 💻 HTML, CSS, JS
+*  HTML, CSS, JS
