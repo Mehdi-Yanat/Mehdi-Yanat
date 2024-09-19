@@ -1,16 +1,12 @@
-## Hi there 👋
+# Mehdi Yanat
+Hello! I'm Mehdi, a seasoned full-stack developer with 3 years of extensive experience in the MERN stack.
+My passion lies in creating innovative and efficient web solutions that drive business success. Whether
+you're looking to build a dynamic web application, enhance your online presence, or streamline your
+business operations, I'm here to help.
 
-<!--
-**Mehdi-Yanat/Mehdi-Yanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+* ⚛ React
+* ⚛ Redux, Valtio, React Query
+* ⚛ Node.js, Express.js, Nest.js
+* ⚛ Mongo, Postgres, Microservices, NX, Meilisearch
+* 💻 HTML, CSS, JS
