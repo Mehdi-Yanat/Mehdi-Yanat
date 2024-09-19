@@ -6,7 +6,7 @@ business operations, I'm here to help.
 
 ## Skills and Experience
 * ⚛ React
-* ⚛ Redux, Valtio, React Query
-* ⚛ Node.js, Express.js, Nest.js
-* ⚛ Mongo, Postgres, Microservices, NX, Meilisearch
+*  Redux, Valtio, React Query
+*  Node.js, Express.js, Nest.js
+*  Mongo, Postgres, Microservices, NX, Meilisearch
 * 💻 HTML, CSS, JS
